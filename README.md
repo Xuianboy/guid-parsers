@@ -6,7 +6,7 @@
 
 **Глава 1**
 
-- [Парсеры](https://github.com/Xuianboy/guid-parsers/README.md#Парсеры) - Что такое парсеры и что они делают 
+- [Парсеры](https://github.com/Xuianboy/guid-parsers/main/README.md#Парсеры) - Что такое парсеры и что они делают 
 
 ____
 
